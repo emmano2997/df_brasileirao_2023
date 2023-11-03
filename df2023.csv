@@ -1,4 +1,4 @@
-RODADA,MANDANTE,VISITANTE,VENCEDOR,MANDANTE_PLACAR,VISITANTE_PLACAR,BRASILEIRAO
+RODADA,MANDANTE,VISITANTE,VENCEDOR,MANDANTE PLACAR,VISITANTE PLACAR,BRASILEIRAO
 1,Flamengo,Coritiba,Flamengo,3,0,2023
 1,Botafogo,São Paulo,Botafogo,2,1,2023
 1,Palmeiras,Cuiabá,Palmeiras,2,1,2023
@@ -189,3 +189,193 @@ RODADA,MANDANTE,VISITANTE,VENCEDOR,MANDANTE_PLACAR,VISITANTE_PLACAR,BRASILEIRAO
 19,Athletico-PR,Cuiabá,Athletico-PR,2,0,2023
 19,Fortaleza,Santos,Fortaleza,4,0,2023
 19,América-MG,Goiás,Goiás,0,1,2023
+20,Coritiba,Flamengo,,,,2023
+20,São Paulo,Botafogo,,,,2023
+20,Cuiabá,Palmeiras,,,,2023
+20,Cruzeiro,Corinthians,,,,2023
+20,Bahia,Bragantino,,,,2023
+20,Vasco,Atlético-MG,,,,2023
+20,Santos,Grêmio,,,,2023
+20,Goiás,Athletico-PR,,,,2023
+20,Internacional,Fortaleza,,,,2023
+20,Fluminense,América-MG,,,,2023
+21,Athletico-PR,Fluminense,,,,2023
+21,Palmeiras,Vasco,,,,2023
+21,América-MG,São Paulo,,,,2023
+21,Atlético-MG,Santos,,,,2023
+21,Corinthians,Goiás,,,,2023
+21,Grêmio,Cruzeiro,,,,2023
+21,Flamengo,Internacional,,,,2023
+21,Fortaleza,Coritiba,,,,2023
+21,Botafogo,Bahia,,,,2023
+21,Bragantino,Cuiabá,,,,2023
+22,Botafogo,Flamengo,,,,2023
+22,Bahia,Vasco,,,,2023
+22,Corinthians,Palmeiras,,,,2023
+22,América-MG,Santos,,,,2023
+22,Cruzeiro,Bragantino,,,,2023
+22,Athletico-PR,Atlético-MG,,,,2023
+22,Goiás,Internacional,,,,2023
+22,São Paulo,Coritiba,,,,2023
+22,Fluminense,Fortaleza,,,,2023
+22,Grêmio,Cuiabá,,,,2023
+23,Vasco,Fluminense,,,,2023
+23,Atlético-MG,Botafogo,,,,2023
+23,Internacional,São Paulo,,,,2023
+23,Fortaleza,Corinthians,,,,2023
+23,Palmeiras,Goiás,,,,2023
+23,Santos,Cruzeiro,,,,2023
+23,Bragantino,Grêmio,,,,2023
+23,Flamengo,Athletico-PR,,,,2023
+23,Coritiba,Bahia,,,,2023
+23,Cuiabá,América-MG,,,,2023
+24,Goiás,Flamengo,,,,2023
+24,Corinthians,Botafogo,,,,2023
+24,Grêmio,Palmeiras,,,,2023
+24,Bahia,Santos,,,,2023
+24,América-MG,Bragantino,,,,2023
+24,Fluminense,Cruzeiro,,,,2023
+24,Athletico-PR,Internacional,,,,2023
+24,Vasco,Coritiba,,,,2023
+24,São Paulo,Fortaleza,,,,2023
+24,Atlético-MG,Cuiabá,,,,2023
+25,Cuiabá,Fluminense,,,,2023
+25,Santos,Vasco,,,,2023
+25,Bragantino,Palmeiras,,,,2023
+25,São Paulo,Corinthians,,,,2023
+25,Botafogo,Goiás,,,,2023
+25,Internacional,Atlético-MG,,,,2023
+25,Fortaleza,Grêmio,,,,2023
+25,Coritiba,Athletico-PR,,,,2023
+25,Flamengo,Bahia,,,,2023
+25,Cruzeiro,América-MG,,,,2023
+26,Corinthians,Flamengo,,,,2023
+26,Fluminense,Botafogo,,,,2023
+26,Vasco,São Paulo,,,,2023
+26,Palmeiras,Santos,,,,2023
+26,Athletico-PR,Bragantino,,,,2023
+26,Cuiabá,Cruzeiro,,,,2023
+26,Internacional,Grêmio,,,,2023
+26,Atlético-MG,Coritiba,,,,2023
+26,Goiás,Bahia,,,,2023
+26,Fortaleza,América-MG,,,,2023
+27,Cruzeiro,Flamengo,,,,2023
+27,América-MG,Botafogo,,,,2023
+27,Goiás,São Paulo,,,,2023
+27,Fluminense,Corinthians,,,,2023
+27,Santos,Bragantino,,,,2023
+27,Palmeiras,Atlético-MG,,,,2023
+27,Bahia,Internacional,,,,2023
+27,Grêmio,Athletico-PR,,,,2023
+27,Vasco,Fortaleza,,,,2023
+27,Coritiba,Cuiabá,,,,2023
+28,Bragantino,Fluminense,,,,2023
+28,Flamengo,Vasco,,,,2023
+28,Coritiba,Palmeiras,,,,2023
+28,Internacional,Santos,,,,2023
+28,Cuiabá,Goiás,,,,2023
+28,Atlético-MG,Cruzeiro,,,,2023
+28,São Paulo,Grêmio,,,,2023
+28,Botafogo,Athletico-PR,,,,2023
+28,Bahia,Fortaleza,,,,2023
+28,Corinthians,América-MG,,,,2023
+29,Grêmio,Flamengo,,,,2023
+29,Fortaleza,Botafogo,,,,2023
+29,Palmeiras,São Paulo,,,,2023
+29,Cuiabá,Corinthians,,,,2023
+29,Fluminense,Goiás,,,,2023
+29,Bragantino,Atlético-MG,,,,2023
+29,Cruzeiro,Internacional,,,,2023
+29,Palmeiras,Athletico-PR,,,,2023
+29,Grêmio,Bahia,,,,2023
+29,Athletico-PR,América-MG,,,,2023
+30,Atlético-MG,Fluminense,,,,2023
+30,Goiás,Vasco,,,,2023
+30,Athletico-PR,São Paulo,,,,2023
+30,Corinthians,Santos,,,,2023
+30,Flamengo,Bragantino,,,,2023
+30,Fortaleza,Cruzeiro,,,,2023
+30,América-MG,Grêmio,,,,2023
+30,Internacional,Coritiba,,,,2023
+30,Palmeiras,Bahia,,,,2023
+30,Botafogo,Cuiabá,,,,2023
+31,Bahia,Fluminense,,,,2023
+31,Cuiabá,Vasco,,,,2023
+31,Botafogo,Palmeiras,,,,2023
+31,Flamengo,Santos,,,,2023
+31,Goiás,Bragantino,,,,2023
+31,São Paulo,Cruzeiro,,,,2023
+31,Coritiba,Grêmio,,,,2023
+31,Corinthians,Athletico-PR,,,,2023
+31,Atlético-MG,Fortaleza,,,,2023
+31,Internacional,América-MG,,,,2023
+32,Fortaleza,Flamengo,,,,2023
+32,Vasco,Botafogo,,,,2023
+32,Fluminense,São Paulo,,,,2023
+32,Bragantino,Corinthians,,,,2023
+32,Coritiba,Goiás,,,,2023
+32,América-MG,Atlético-MG,,,,2023
+32,Cruzeiro,Internacional,,,,2023
+32,Palmeiras,Athletico-PR,,,,2023
+32,Grêmio,Bahia,,,,2023
+32,Santos,Cuiabá,,,,2023
+33,Internacional,Fluminense,,,,2023
+33,Cruzeiro,Vasco,,,,2023
+33,Flamengo,Palmeiras,,,,2023
+33,Goiás,Santos,,,,2023
+33,São Paulo,Bragantino,,,,2023
+33,Corinthians,Atlético-MG,,,,2023
+33,Botafogo,Grêmio,,,,2023
+33,América-MG,Coritiba,,,,2023
+33,Athletico-PR,Fortaleza,,,,2023
+33,Bahia,Cuiabá,,,,2023
+34,Flamengo,Fluminense,,,,2023
+34,Bragantino,Botafogo,,,,2023
+34,Santos,São Paulo,,,,2023
+34,Grêmio,Corinthians,,,,2023
+34,Atlético-MG,Goiás,,,,2023
+34,Coritiba,Cruzeiro,,,,2023
+34,Palmeiras,Internacional,,,,2023
+34,Bahia,Athletico-PR,,,,2023
+34,Cuiabá,Fortaleza,,,,2023
+34,Vasco,América-MG,,,,2023
+35,América-MG,Flamengo,,,,2023
+35,Athletico-PR,Vasco,,,,2023
+35,Fortaleza,Palmeiras,,,,2023
+35,Botafogo,Santos,,,,2023
+35,Internacional,Bragantino,,,,2023
+35,Goiás,Cruzeiro,,,,2023
+35,Atlético-MG,Grêmio,,,,2023
+35,Fluminense,Coritiba,,,,2023
+35,Corinthians,Bahia,,,,2023
+35,São Paulo,Cuiabá,,,,2023
+36,Santos,Fluminense,,,,2023
+36,Coritiba,Botafogo,,,,2023
+36,Bahia,São Paulo,,,,2023
+36,Vasco,Corinthians,,,,2023
+36,Grêmio,Goiás,,,,2023
+36,Flamengo,Atlético-MG,,,,2023
+36,Cuiabá,Internacional,,,,2023
+36,Cruzeiro,Athletico-PR,,,,2023
+36,Bragantino,Fortaleza,,,,2023
+36,Palmeiras,América-MG,,,,2023
+37,Palmeiras,Fluminense,,,,2023
+37,Grêmio,Vasco,,,,2023
+37,Atlético-MG,São Paulo,,,,2023
+37,Athletico-PR,Santos,,,,2023
+37,Fortaleza,Goiás,,,,2023
+37,Botafogo,Cruzeiro,,,,2023
+37,Corinthians,Internacional,,,,2023
+37,Bragantino,Coritiba,,,,2023
+37,América-MG,Bahia,,,,2023
+37,Flamengo,Cuiabá,,,,2023
+38,São Paulo,Flamengo,,,,2023
+38,Internacional,Botafogo,,,,2023
+38,Cruzeiro,Palmeiras,,,,2023
+38,Coritiba,Corinthians,,,,2023
+38,Vasco,Bragantino,,,,2023
+38,Bahia,Atlético-MG,,,,2023
+38,Fluminense,Grêmio,,,,2023
+38,Cuiabá,Athletico-PR,,,,2023
+38,Santos,Fortaleza,,,,2023
+38,Goiás,América-MG,,,,2023
